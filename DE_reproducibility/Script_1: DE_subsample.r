@@ -11,7 +11,6 @@ library(openxlsx)
 library(RUVSeq)
 library(sva)
 library(BiocParallel)
-# library(doParallel)
 library(foreach)
 library(doSNOW)
 
